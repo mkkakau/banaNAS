@@ -1,3 +1,5 @@
+# Hardware Installation Tips
+
 This is not meant to be a guide to build a computer but a few tips I've learned and an overview of why I chose the parts that I did. If you have never built your own PC before, read your motherboard manual from front to back. The manual is a tutorial on how to build a PC specifically made for you! The hardware components that I used in this build may not be available. 
 
 ### Before You Touch Anything
