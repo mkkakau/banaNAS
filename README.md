@@ -4,6 +4,8 @@
 
 This is a fun project that I did to learn about Linux, Docker, servers, and networking in general. It is a NAS device running the OpenMediaVault Linux distribution to host my personal files and programs which I access through VPN. All of the hardware necessary for the build can be purchased for under $400. This repo is where I will share my config files and scripts.
 
+I have written a few notes on how I built my setup and it is not necessarily a guide on how to build your own machine. These are mostly reminders and tips on solving problems that I ran into. Your mileage may vary. 
+
 ### Hardware
 - Motherboard / CPU / Graphics: 
 	- ASRock J4205-ITX
