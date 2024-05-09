@@ -1,5 +1,7 @@
 # banaNAS
 
+![Neofetch Screenshot](images/neofetch.png)
+
 This is a fun project that I did to learn about Linux, Docker, servers, and networking in general. It is a NAS device running the OpenMediaVault Linux distribution to manage my personal files and programs which I access through VPN. All of the hardware necessary for the build can be purchased for under $400. This repo is where I will share my config files and scripts.
 
 ### Hardware
