@@ -1,3 +1,7 @@
+# Openmediavault Installation
+
+With everything Linux, there's always some kind of bug that you run into that you'll spend hours googling. These are my OMV installation notes in case I ever decide to do it again. 
+
 ### Why Openmediavault?
 Openmediavault is a linux distribution used as an interface for NAS devices. It provides functionality like SMB, user authentication and authorization, volume management, and system monitoring out of the box. It is highly customizable through Docker and the built-in plugin system. Because it is built on Linux, you can simply SSH into your machine and install whatever you want.
 
