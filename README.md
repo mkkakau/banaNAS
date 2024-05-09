@@ -1,5 +1,6 @@
 # banaNAS
-This is a fun project that I did to learn about Linux, Docker, servers, and networking in general. All of the hardware necessary for the build can be purchased for under $400. It is running the OpenMediaVault Linux distribution to manage my personal files and programs which I access through VPN. This repo is where I will share my config files and scripts.
+
+This is a fun project that I did to learn about Linux, Docker, servers, and networking in general. It is a NAS device running the OpenMediaVault Linux distribution to manage my personal files and programs which I access through VPN. All of the hardware necessary for the build can be purchased for under $400. This repo is where I will share my config files and scripts.
 
 ### Hardware
 - Motherboard / CPU / Graphics: 
@@ -36,3 +37,6 @@ This is a fun project that I did to learn about Linux, Docker, servers, and netw
 - Docker Services:
 	- Immich
 	- Jellyfin
+
+### Why is it called banaNAS? 🍌🍌🍌
+- My first NAS device was built using a [Banana Pi](https://www.banana-pi.org/en/banana-pi-sbcs/51.html) so I thought it was a cute name that just stuck!
