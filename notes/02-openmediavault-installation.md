@@ -31,4 +31,4 @@ These are only necessary for the installation process and may be removed later:
     - username: `admin`
     - password: `openmediavault`
 14. Network interfaces and SSH should be configured and enabled automatically
-15. [OMV Configuration](guides/03-openmediavault-configuration.md) 
+15. [OMV Configuration]("notes/03-openmediavault-configuration.md") 
