@@ -25,4 +25,4 @@ This is not meant to be a guide to build a computer but a few tips I've learned 
 - I was going for a budget build, but a power supply unit with a higher efficiency rating may be better for a computer running 24/7.
 
 ### Next Steps
-- [OpenMediaVault Installation](notes/02-openmediavault-installation)
+- [OpenMediaVault Installation](02-openmediavault-installation)
